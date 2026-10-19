@@ -208,3 +208,9 @@ print(dict)
 
 dict.replace("mirbek","nurbek")
 print(dict)
+
+
+
+
+name = "mirbek"
+print(name)
