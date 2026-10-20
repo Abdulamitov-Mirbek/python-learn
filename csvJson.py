@@ -59,3 +59,14 @@ import json
 # student["grades"] = 100
 # with open("csv/student.json", "w", encoding="utf-8") as file:
 #     json.dump(student, file, ensure_ascii=False, indent=4)
+
+
+
+
+
+
+
+#
+# CI/CD
+# ci - continue integration
+# cd - continue development
