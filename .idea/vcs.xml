@@ -2,6 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/python-learn" vcs="Git" />
+=======
+    <mapping directory="$PROJECT_DIR$/djangorepo/django-crm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pandas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repotutor/StreamlitDeploy" vcs="Git" />
+>>>>>>> 7c9646157f15e365d6663eb6db09015012a47e27
   </component>
 </project>
