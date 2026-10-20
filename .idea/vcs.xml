@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/djangorepo/django-crm" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pandas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repotutor/StreamlitDeploy" vcs="Git" />
   </component>
 </project>
