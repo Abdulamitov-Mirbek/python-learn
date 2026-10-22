@@ -21,11 +21,15 @@
 
 
 
-num = 20
-if num > 18:
-    print(num)
-else:
-    print(num)
+# num = 20
+# if num > 18:
+#     print(num)
+# else:
+#     print(num)
+import requests
+
+san = requests.get('https://meet.google.com/home')
+print(san.status_code)
 
 
 

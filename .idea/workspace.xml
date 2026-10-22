@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1588675e-8e76-4129-81b2-50f43643ae89" name="Changes" comment="first commit to an github">
-      <change afterPath="$PROJECT_DIR$/numpyPandas/combain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpyPandas/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/lecture3_dataframe_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pandas/pandas_practice.py" afterDir="false" />
+    <list default="true" id="20b4bedf-a46d-4046-970b-46e94d697342" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/123.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/123.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csvJson.py" beforeDir="false" afterPath="$PROJECT_DIR$/csvJson.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-learn" beforeDir="false" afterPath="$PROJECT_DIR$/python-learn" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +28,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Abdulamitov-Mirbek"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Abdulamitov-Mirbek&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Abdulamitov-Mirbek/python-learn.git",
-    "accountId": "7a972008-ea61-4c2b-a99a-05edc1de3c47"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Abdulamitov-Mirbek/python-learn.git&quot;,
+    &quot;accountId&quot;: &quot;7a972008-ea61-4c2b-a99a-05edc1de3c47&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -55,40 +54,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.csvJson.executor": "Run",
-    "Python.dict.executor": "Run",
-    "Python.filesopened.executor": "Run",
-    "Python.function.executor": "Run",
-    "Python.game.executor": "Run",
-    "Python.ifelse.executor": "Run",
-    "Python.lecture3_dataframe_examples.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.loops.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.modules.executor": "Run",
-    "Python.oop.executor": "Run",
-    "Python.pandas.executor": "Run",
-    "Python.set_frozenset.executor": "Run",
-    "Python.tryExcept.executor": "Run",
-    "Python.tupl.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "dev",
-    "grid.search.filter.rows": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/user/Desktop/python-learn",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.csvJson.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filesopened.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ifelse.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lecture3_dataframe_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modules.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set_frozenset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tryExcept.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tupl.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;farhat&quot;,
+    &quot;grid.search.filter.rows&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/python-learn&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\python-learn" />
@@ -97,7 +102,7 @@
       <recent name="C:\Users\user\Desktop\python-learn\pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.game">
+  <component name="RunManager" selected="Python.main">
     <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-learn" />
       <option name="ENV_FILES" value="" />
@@ -111,6 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict.py" />
       <option name="PARAMETERS" value="" />
@@ -134,6 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpyPandas/game.py" />
       <option name="PARAMETERS" value="" />
@@ -157,6 +164,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="true" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
@@ -177,13 +185,13 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+        <option value="bundled-python-sdk-6fa658e1df1a-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.8665.369" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1588675e-8e76-4129-81b2-50f43643ae89" name="Changes" comment="" />
+      <changelist id="20b4bedf-a46d-4046-970b-46e94d697342" name="Changes" comment="" />
       <created>1786250052446</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -199,6 +207,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
